@@ -73,7 +73,7 @@ conda activate myenvironment
 pip uninstall clmunch && sleep 2 && pip install git+https://github.com/cmi-dair/cpac-log-muncher
 ```
 
-- For some reason ``pip install -U ...` does not always work.
+- For some reason `pip install -U ...` does not always work.
 
 ## C-PAC job file template 
 
