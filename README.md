@@ -30,7 +30,7 @@ tail -f my_out_file.log
 ### Kill all your jobs
 
 ```bash
-scancel -u $USER
+scancel --me
 ```
 
 ## Singularity/Apptainer
