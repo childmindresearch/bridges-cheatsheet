@@ -121,3 +121,8 @@ participant \
 - Auto search and aggregate C-PAC run information: https://github.com/cmi-dair/ecpac
 - Subset large BIDS datasets (by symlinking) so C-PAC does not choke: https://github.com/cmi-dair/bids-subset
 - View nifti files in the terminal / without GUI: https://github.com/cmi-dair/headjack
+
+## Links
+
+- Bridges user guide https://www.psc.edu/resources/bridges-2/user-guide/
+- Connect to bridges in the browser: https://ondemand.bridges2.psc.edu
