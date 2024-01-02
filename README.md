@@ -70,7 +70,7 @@ conda activate myenvironment
 ### Install / update github hosted Python package
 
 ```bash
-pip uninstall clmunch && sleep 2 && pip install git+https://github.com/cmi-dair/cpac-log-muncher
+pip uninstall -y clmunch && sleep 2 && pip install git+https://github.com/cmi-dair/cpac-log-muncher
 ```
 
 - For some reason `pip install -U ...` does not always work.
