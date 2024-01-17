@@ -70,7 +70,7 @@ conda activate myenvironment
 ### Install / update github hosted Python package
 
 ```bash
-pip uninstall -y clmunch && sleep 2 && pip install git+https://github.com/cmi-dair/cpac-log-muncher
+pip uninstall -y clmunch && sleep 2 && pip install git+https://github.com/childmindresearch/cpac-log-muncher
 ```
 
 - For some reason `pip install -U ...` does not always work.
@@ -117,10 +117,10 @@ participant \
 
 ## Utilities
   
-- Easier way to launch C-PAC on ACCESS: https://github.com/cmi-dair/ecpac
-- Auto search and aggregate C-PAC run information: https://github.com/cmi-dair/cpac-log-muncher
-- Subset large BIDS datasets (by symlinking) so C-PAC does not choke: https://github.com/cmi-dair/bids-subset
-- View nifti files in the terminal / without GUI: https://github.com/cmi-dair/headjack
+- Easier way to launch C-PAC on ACCESS: https://github.com/childmindresearch/ecpac
+- Auto search and aggregate C-PAC run information: https://github.com/childmindresearch/cpac-log-muncher
+- Subset large BIDS datasets (by symlinking) so C-PAC does not choke: https://github.com/childmindresearch/bids-subset
+- View nifti files in the terminal / without GUI: https://github.com/childmindresearch/headjack
 
 ## Links
 
